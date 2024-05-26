@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bannerBG{
+    background-image: url("/public/banner.jpeg");;
+    object-fit: cover;
+}
